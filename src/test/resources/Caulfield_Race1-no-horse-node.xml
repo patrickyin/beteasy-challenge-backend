@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<meeting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <date>16/12/2017</date>
+  <MeetingType>HorseRacing</MeetingType>
+  <track name="Caulfield" TranslatedName="Caulfield" club="Melbourne R.C." location="M" country="AUS" state="VIC" condition="Good3"/>
+  <Meetingid>92217</Meetingid>
+  <races>
+    <race number="1" name="Evergreen Turf Plate" id="1536514" Status="OPEN">
+      <NumberOfRunners>13</NumberOfRunners>
+      <start_time>16/12/2017 11:30:00 AM</start_time>
+      <distance metres="1100"/>
+      <prices>
+        <price>
+          <priceType>WinFixedOdds</priceType>
+          <horses>
+            <horse number="1" Price="4.2"/>
+            <horse number="2" Price="12"/>
+          </horses>
+        </price>
+      </prices>
+    </race>
+  </races>
+</meeting>

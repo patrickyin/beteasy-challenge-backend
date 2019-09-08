@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="beteasy-backend.main" target="1.8" />
+      <module name="beteasy-backend.test" target="1.8" />
+      <module name="myob-coding-exercise-patrick-yin.main" target="1.8" />
+      <module name="myob-coding-exercise-patrick-yin.test" target="1.8" />
+      <module name="myob-coding-exercise.main" target="1.8" />
+      <module name="myob-coding-exercise.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
