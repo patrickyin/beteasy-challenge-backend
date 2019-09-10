@@ -1,6 +1,6 @@
 # Horses list generator (BetEasy) - Patrick Yin
 
-[![CircleCI](https://circleci.com/gh/patrickyin/beteasy-challenge-backend/tree/master.svg?style=svg&circle-token=0d5b5cc63da5a1989b8b9ce116694e6ddf2050f3)](https://circleci.com/gh/patrickyin/beteasy-challenge-backend/tree/master)
+[![CircleCI](https://circleci.com/gh/patrickyin/beteasy-challenge-backend.svg?style=svg)](https://circleci.com/gh/patrickyin/beteasy-challenge-backend)
 
 ## Summary
 This is a command-line based Horses list generator built with Kotlin. It also contains Unit Test built with JUnit and Integration Test built with Cucumber Aruba.
@@ -16,7 +16,7 @@ This is a command-line based Horses list generator built with Kotlin. It also co
 - Assertions: [AssertJ](http://joel-costigliola.github.io/assertj/)
 - Integration test framework: [Cucumber-Aruba](https://github.com/cucumber/aruba/)
 - Build system: [Gradle](https://gradle.org/)
-- Continuous integration and delivery platform: CircleCI[![CircleCI](https://circleci.com/gh/patrickyin/beteasy-challenge-backend/tree/master.svg?style=svg&circle-token=0d5b5cc63da5a1989b8b9ce116694e6ddf2050f3)](https://circleci.com/gh/patrickyin/beteasy-challenge-backend/tree/master)
+- Continuous integration and delivery platform: CircleCI[![CircleCI](https://circleci.com/gh/patrickyin/beteasy-challenge-backend.svg?style=svg)](https://circleci.com/gh/patrickyin/beteasy-challenge-backend)
 
 #### Implementation clarification
 - Access property directly rather than through getter?
