@@ -1,4 +1,4 @@
-# Horses list generator (BetEasy) - Patrick Yin
+# Horses list generator
 
 [![CircleCI](https://circleci.com/gh/patrickyin/beteasy-challenge-backend.svg?style=svg)](https://circleci.com/gh/patrickyin/beteasy-challenge-backend)
 
