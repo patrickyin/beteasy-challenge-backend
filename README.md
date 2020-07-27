@@ -1,4 +1,4 @@
-# Horses list generator
+# Horses list generator - A Kotlin Command-Line project example
 
 [![CircleCI](https://circleci.com/gh/patrickyin/beteasy-challenge-backend.svg?style=svg)](https://circleci.com/gh/patrickyin/beteasy-challenge-backend)
 
